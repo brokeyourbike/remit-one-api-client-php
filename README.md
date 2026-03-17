@@ -2,8 +2,6 @@
 
 [![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/remit-one-api-client-php)](https://github.com/brokeyourbike/remit-one-api-client-php/releases)
 [![Total Downloads](https://poser.pugx.org/brokeyourbike/remit-one-api-client/downloads)](https://packagist.org/packages/brokeyourbike/remit-one-api-client)
-[![Maintainability](https://api.codeclimate.com/v1/badges/db4ebf963ec59de7bb90/maintainability)](https://codeclimate.com/github/brokeyourbike/remit-one-api-client-php/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/db4ebf963ec59de7bb90/test_coverage)](https://codeclimate.com/github/brokeyourbike/remit-one-api-client-php/test_coverage)
 
 RemitONE API Client for PHP
 
